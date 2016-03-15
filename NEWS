@@ -5,6 +5,8 @@ CHANGES IN VERSION 1.5.0-1.5.2
 
     o bug fix in `snpgdsPCASampLoading()` when the input is SeqArray GDS file
 
+    o improve `snpgdsGetGeno()`
+
 
 CHANGES IN VERSION 1.4.0
 -------------------------
